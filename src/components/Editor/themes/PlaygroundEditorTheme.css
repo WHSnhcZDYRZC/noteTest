@@ -193,7 +193,7 @@
   cursor: pointer;
 }
 .PlaygroundEditorTheme__tableAddColumns:after {
-  background-image: url(../images/icons/plus.svg);
+  background-image: url(../../src/components/Editor/images/icons/plus.svg);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -221,7 +221,7 @@
   cursor: pointer;
 }
 .PlaygroundEditorTheme__tableAddRows:after {
-  background-image: url(../images/icons/plus.svg);
+  background-image: url(../../src/components/Editor/images/icons/plus.svg);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;

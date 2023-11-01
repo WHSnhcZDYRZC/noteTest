@@ -1,6 +1,5 @@
 import Editor from "./components/Editor/Editor"
 
-
 function App() {
 
   return (
